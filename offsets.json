@@ -20,5 +20,7 @@
     "m_flFlashBangTime": 5112,
     "m_bIsScoped": 9192,
     "m_iIDEntIndex": 5208,
-    "m_hActiveWeapon": 88
+    "m_hActiveWeapon": 88,
+    "m_iViewModelFOV": 8916,
+    "m_vecViewModelOffset": 8904
 }
